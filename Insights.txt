@@ -1,0 +1,41 @@
+BAZE UNIVERSITY ABUJA
+IDEAS CAPSTONE PROJECT FOR DATA ANALYTICS STUDENTS
+Prepared by: Isah Usman Barde
+Student ID: IDEAS/24/11968
+This is a 6-Month of Intense Learning & Project Work at Baze University's IDEAS Project!
+I'm thrilled to share my final project's key insights:
+a.	Project Overview:
+My final project focused on enhancing customer experience, regional sales performance, and product effectiveness through sales data analysis.
+b.	Methodologies:
+i.	Excel was used for my data cleaning and preprocessing.
+ii.	Power BI was used for visualizing my key findings.
+c.	Regional Sales Analysis:
+i.	Latin America leads in sales (peaking at 3,533 units in March 2024).
+ii.	Europe shows significant sales peaks, but low feedback indicates engagement issues.
+iii.	Middle East & Africa maintains steady sales.
+iv.	North America displays declining sales.
+v.	Asia Pacific demonstrates stable but lower sales.
+d.	Feedback Analysis:
+i.	Product Quality tops the feedback themes with a whooping 344 frequencies.
+ii.	Value for Money is the lowest with 75 frequencies.
+e.	SalesRep Sales Analysis:
+i.	Top performers: REP010 (3.8%), REP001 (3.2%), REP006 (3.1%).
+ii.	Bottom performers: REP003, REP008, REP005.
+f.	Product Analysis:
+i.	Top Seller: Widget D with $15.62k profit margin.
+ii.	Lowest Seller: Widget E with only $2.15k profit margin, indicating potential issues in product demand or visibility.
+g.	Customer Segment Trends:
+i.	Retail is the most vocal, representing 36.11% of feedback.
+ii.	Government feedback is minimal, signaling potential opportunities for improvement in this sector.
+h.	Key Takeaways:
+i.	Customer engagement impacts sales.
+ii.	Top performers excel in sales and feedback.
+iii.	Low performers need trainings and support.
+i.	Recommendations:
+i.	Enhance customer experience in Europe.
+ii.	Address declining sales in North America.
+iii.	Monitor sales and feedback performance regularly.
+j.	Conclusion:
+Focusing on customer service and addressing regional engagement issues will drive improvements in customer satisfaction and future growth.
+
+#BazeUniversity #CapstoneProject #IDEASProject #SalesDataAnalysis #CustomerExperience #RegionalSales #SalesPerformance #FeedbackAnalysis #CustomerEngagement #BusinessGrowth #DTA #BID
